@@ -4,4 +4,4 @@
 还没有进行开发完成，详细咨询 qq 1250211588
 
 #选择体重效果图
-![image](https://github.com/yangbinsoft/YbAndroidPicker/blob/master/screenshot/Screenshot_20170106-175900.png?raw=true)
+![image](https://github.com/yangbinsoft/YbAndroidPicker/blob/master/screenshot/Screenshot_20170106-175900.png)
