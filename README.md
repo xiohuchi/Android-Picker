@@ -5,3 +5,9 @@
 
 #选择体重效果图
 ![image](https://github.com/yangbinsoft/YbAndroidPicker/blob/master/screenshot/Screenshot_20170106-175900.png)
+
+#选择男女效果图
+![image](https://github.com/yangbinsoft/YbAndroidPicker/blob/master/screenshot/Screenshot_20170106-175908.png)
+
+#选择日期效果图
+![image](https://github.com/yangbinsoft/YbAndroidPicker/blob/master/screenshot/Screenshot_20170106-175915.png)
